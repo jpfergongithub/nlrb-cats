@@ -14,7 +14,9 @@
 * Before the NLRB."
 *
 * Please note that this file calls several ADO files that I wrote to simplify
-* the code: mdestring.ado, nlrbdate.ado, rencode.ado and swapout.ado. 
+* the code: mdestring.ado, nlrbdate.ado, rencode.ado and swapout.ado. These need
+* to be somewhere on Stata's ado-path.
+*
 ********************************************************************************
 
 clear
